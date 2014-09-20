@@ -27,3 +27,8 @@ GitHub Gist is a convenient way to host small quantities of text, including CSV 
 3. Click **Create Public Gist** to be taken to the homepage of your new gist. The raw URL of your data is accessible through the "angle brackets" button in the top right corner of the file.
 
 ![](http://community.openspending.org/files/2013/08/image_1-e1375888253802.png)
+
+
+**Next**: [Creating a dataset on OpenSpending](../creating-dataset)
+
+**Up**: [OpenSpending Guide](../)

@@ -17,3 +17,7 @@ A typical workflow for importing a dataset into OpenSpending involves the follow
 * Load the data, or refine the data based on the feedback given by the platform about the data's consistency.
 
 Each of these steps will be explained in detail in the following sections.
+
+**Next**: [Gathering data](../gathering-data)
+
+**Up**: [OpenSpending Guide](../)

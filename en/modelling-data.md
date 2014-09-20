@@ -65,3 +65,8 @@ Once the data has been loaded, the model you have created will be fixed and edit
 ![](http://community.openspending.org/files/2013/08/image_13-e1375888848457.png)
 
 If your model is free of errors, click **Load** to load the source dataset and apply the model. You may then return to the dataset's home page by clicking its name at the top of the screen, where you can proceed to construct visualizations and otherwise play with your data.
+
+
+**Next**: [Create a Visualization](../create-viz)
+
+**Up**: [OpenSpending Guide](../)

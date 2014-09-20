@@ -37,3 +37,7 @@ Budgetary data on OpenSpending includes:
 * [Berlin Budget](http://openspending.org/berlin_de)
 
 * [Seville Spending Budget](http://openspending.org/seville-budget)
+
+**Next**: [How does OpenSpending represent data?](../data-model)
+
+**Up**: [OpenSpending Guide](../)

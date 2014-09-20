@@ -17,3 +17,7 @@ A model consists of a set of *dimensions*. A dimension is a property that potent
 Dimensions come in several types. The most important is the *measure* type. Measures are dimensions which can contain a single numerical value. Another important dimension type is the *time* type, which represent dates and times. Every data needs at least one each of measure and time dimensions, representing respectively the amount of money represented by the transaction and the time when it took place.
 
 The remaining dimension types are used to represent other properties that entries might have, e.g. transaction numbers, labels from a classification scheme, or the names of individuals or companies involved. Such dimensions include *attributes*, which can hold a single value, and *compound dimensions*, which can hold a nested set of values. Compound dimensions are useful when a property includes several sub-properties which could each be used to aggregate the data.
+
+**Next**: [Adding data: overview](../adding-data-overview)
+
+**Up**: [OpenSpending Guide](../)

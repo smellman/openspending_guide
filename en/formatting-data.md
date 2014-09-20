@@ -43,3 +43,7 @@ Here are some **good** spreadsheets:
 * [Washington, DC](https://docs.google.com/a/okfn.org/spreadsheet/ccc?key=0AvdkMlz2NopEdDhrZnRkWl9ZX2ZZNVptTzdueWw3emc#gid=0) (transactional spending data)
 
 * [Minsk, Belarus](https://docs.google.com/a/okfn.org/spreadsheet/ccc?key=0AvdkMlz2NopEdEtIMFlEVDZXOWdDUEthUTQ0c21aV2c#gid=0) (budget data)
+
+**Next**: [Publishing data on the web](../publishing-data)
+
+**Up**: [OpenSpending Guide](../)

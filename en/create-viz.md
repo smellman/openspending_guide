@@ -41,3 +41,8 @@ Choosing a primary dimension via the *Columns* menu will display the data in tab
 Adding another column by clicking **Add a level** will break down each subtotal in the first column by the aggregated sums of the new column. Note that this generally changes the percentage values and thus rearranges rows.
 
 ![](http://community.openspending.org/files/2013/08/image_19-e1375889063736.png)
+
+
+**Next**: [Embed a visualisation into your website](../embed-viz)
+
+**Up**: [OpenSpending Guide](../)

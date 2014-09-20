@@ -43,3 +43,8 @@ Note that if you incorrectly provide OpenSpending with an HTML file instead of a
 ![](http://community.openspending.org/files/2013/08/image_4-e1375888407751.png)
 
 If you added a bad data source, don't worry. You do not have to use the source in your final dataset: OpenSpending requires you to do more work on a data source before it can be published. Simply add a new, correct source and forget about the bad one.
+
+
+**Next**: [Modelling your data in OpenSpending](../modelling-data)
+
+**Up**: [OpenSpending Guide](../)
